@@ -1,0 +1,26 @@
+---
+title: "Lab 6: Quarto Presentation"
+author: "Joaquin Lucero"
+format: revealjs
+bibliography: references.bib
+editor: visual
+---
+
+---
+title: "Lab_6_Quarto_Presentation.qmd"
+author: "jl"
+format: revealjs
+editor: visual
+---
+
+## Some Important Literature
+
+Important info about my project - 10.1007/s00248-013-0356-3
+
+Cool stuff on bioluminescent petunia - 10.1038/s41587-020-0500-9
+
+squid-vibrio background - 10.1002/9780470015902.a0028395
+
+## Cool equation
+
+\\\[ E = mc\^2 \\\]
